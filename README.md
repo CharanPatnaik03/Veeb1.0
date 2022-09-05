@@ -5,8 +5,8 @@ This project is a News platform which is navigated using voice command.
 
 npm install and then npm start will run the project in development mode
 # picture
-![des](https://user-images.githubusercontent.com/60185196/133312915-8484e6d0-d04b-47a6-8e34-05571fe4cfb9.png)
 
+![alt text](https://github.com/CharanPatnaik03/Veeb1.0/blob/master/public/133312915-8484e6d0-d04b-47a6-8e34-05571fe4cfb9.png)
 
 
 # Getting Started with Create React App
